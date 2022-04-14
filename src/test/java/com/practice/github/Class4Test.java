@@ -9,7 +9,7 @@ public class Class4Test{
 		String browser = System.getProperty("BROWSER");
 		String url = System.getProperty("URL");
 		System.out.println(browser);
-		System.out.println(browser);
+		System.out.println(url);
 
 	
 		// TODO Auto-generated method stub
