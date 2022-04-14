@@ -8,7 +8,7 @@ public class Class4 {
 	public void class1Test() {
 		String browser = System.getProperty("BROWSER");
 		String url = System.getProperty("URL");
-		System.out.println(browser+"    "+url);
+		System.out.println(browser +"    "+ url);
 		
 
 	
